@@ -1,1 +1,2 @@
 second line added in code
+this is second line for adding in git cloning also has been done and the second step is in process 
