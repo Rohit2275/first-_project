@@ -1,1 +1,1 @@
-HI this is new file for creating another test in git 
+HI this is new file for creating another test in git another line for diff command check 
